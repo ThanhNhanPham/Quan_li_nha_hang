@@ -235,7 +235,7 @@ void Danhsachmonnuong(int A1[], int& dem1) {
         }
     }
     cout << endl;
-    fclose(f);
+    fclose(f);//dong file
 }
 
 void Xuatmonnuong(int A1[], int& dem1) {
